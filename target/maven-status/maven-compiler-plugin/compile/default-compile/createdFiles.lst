@@ -1,0 +1,17 @@
+com\usermanagement\usermanagmentservice\controller\TravellerAuthController.class
+com\usermanagement\usermanagmentservice\dto\AuthResponse.class
+com\usermanagement\usermanagmentservice\dto\organizer\OrganizerRepository.class
+com\usermanagement\usermanagmentservice\utility\JwtUtils.class
+com\usermanagement\usermanagmentservice\dto\traveller\TravellerSignUpRequest.class
+com\usermanagement\usermanagmentservice\dto\MessageResponse.class
+com\usermanagement\usermanagmentservice\dto\organizer\Organizer.class
+com\usermanagement\usermanagmentservice\config\GlobalExceptionHandler.class
+com\usermanagement\usermanagmentservice\dto\traveller\TravellerRepository.class
+com\usermanagement\usermanagmentservice\dto\traveller\Traveller.class
+com\usermanagement\usermanagmentservice\service\TravellerAuthService.class
+com\usermanagement\usermanagmentservice\dto\organizer\OrganizerSignUpRequest.class
+com\usermanagement\usermanagmentservice\dto\SignInRequest.class
+com\usermanagement\usermanagmentservice\service\OrganizerAuthService.class
+com\usermanagement\usermanagmentservice\config\SecurityConfig.class
+com\usermanagement\usermanagmentservice\controller\OrganizerAuthController.class
+com\usermanagement\usermanagmentservice\UserManagementServiceApplication.class
